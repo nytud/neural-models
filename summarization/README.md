@@ -11,7 +11,7 @@ The corpus is available under the license CC-BY-SA 4.0. If you use this corpus, 
 # Citation
 If you use this resource or any part of its documentation, please refer to:
 
-Yang, Zijian Győző (2022) Jobban fordítunk magyarra, mint a Google! [We translate better into Hungarian, than Google!]. XVIII. Magyar Számítógépes Nyelvészeti Konferencia. 15–29. Szeged, Magyarország
+Yang, Zijian Győző (2022) BARTerezzünk! - Messze, messze, messze a világtól, - BART kísérleti modellek magyar nyelvre. XVIII. Magyar Számítógépes Nyelvészeti Konferencia. 15–29. Szeged, Magyarország
 
 
 ```
