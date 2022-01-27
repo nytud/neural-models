@@ -21,7 +21,7 @@ Yang, Zijian Győző (2022) BARTerezzünk! - Messze, messze, messze a világtól
     year = {2022},
     publisher = {Szegedi Tudományegyetem, Informatikai Intézet},
     address = {Szeged, Magyarország},
-    author = {{Yang Zijian Győző}}
+    author = {{Yang Zijian Győző}},
     pages = {15--29},
 }
 ```
